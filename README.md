@@ -6,7 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://eliseu-dias.github.io/MK5---Alura-Books/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
