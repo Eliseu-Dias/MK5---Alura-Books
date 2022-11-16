@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# MK5---Alura-Books
 
-Rápida descrição do objetivo de fazer esse projeto
+This project has been made it for upgrade my own abilities 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **MK5---Alura-Books**
+| :label: Tecnologias | CSS, html (tecnologias utilizadas)
 | :rocket: URL         | https://eliseu-dias.github.io/MK5---Alura-Books/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
